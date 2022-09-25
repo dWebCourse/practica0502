@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div.normal{
+    position: relative;
+    margin: 10px 0 0 10px;
+    width: 100px;
+    height: 80px;
+    background-color: #00adff;
+}
+
+div.flotante{
+    position:absolute; 
+    top:0; 
+    left:0;
+    background-color: blueviolet;
+}
